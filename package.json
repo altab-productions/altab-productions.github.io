@@ -6,7 +6,7 @@
 		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",
-        "deploy": "npm run build && echo 'altab.productions' >> build/CNAME && npx gh-pages -d build -b deployed-page",
+        "deploy": "npm run build && echo 'altab.productions' > ./build/CNAME && npx gh-pages -d build -b deployed-page --cname altab.productions --nojekyll",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
 		"lint": "prettier --check . && eslint .",
