@@ -1,0 +1,59 @@
+/* CSS Reset file by naashchaa */
+
+/* Apply border-box */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+/* Remove margin and padding */
+body,
+h1, h2, h3, h4, h5, h6,
+p,
+ol, ul,
+figure,
+blockquote,
+dl, dd, dt,
+button,
+input,
+select,
+textarea {
+    margin: 0;
+    padding: 0;
+}
+
+/* Normalize list styles */
+ol, ul {
+    list-style: none;   
+}
+
+/* Remove default styles for links */
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Set default styles for headings */
+h1, h2, h3, h4, h5, h6 {
+    font-size: 1em;
+    font-weight: normal;
+}
+
+/* Remove border on images */
+img {
+    border: 0;
+}
+
+/* Global font reset */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Normalize form elements */
+input,
+select,
+textarea {
+  appearance: none;
+  border-radius: 0;
+} 
