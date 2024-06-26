@@ -1,6 +1,10 @@
+<script>
+    import { base } from "$app/paths";
+</script>
+
 <h1>Services</h1>
 <p>
-    Currently, all services are provided through the means of private communication. For details regarding pricing and getting started, please <a href="/contact">contact me</a> directly.
+    Currently, all services are provided through the means of private communication. For details regarding pricing and getting started, please <a href="{base}/contact">contact me</a> directly.
 </p>
 <h2>Mobile application</h2>
 <p>
