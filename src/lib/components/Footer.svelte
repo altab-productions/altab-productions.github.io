@@ -2,7 +2,7 @@
     <section class="company-registry">
         <p>Altab Productions EMZ</p>
         <p>KvK number 94080046</p>
-        <p>VAT-ID number ...</p>
+        <p>VAT-ID number NL005065047B91</p>
         <a href="mailto:business@altab.productions">business@altab.productions</a>
     </section>
     <section class="company-details">
