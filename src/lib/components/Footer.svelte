@@ -1,9 +1,15 @@
+<script>
+    import { base } from "$app/paths";
+</script>
+
 <div class="footer--container">
     <section class="company-registry">
         <p>Altab Productions EMZ</p>
         <p>KvK number 94080046</p>
         <p>VAT-ID number NL005065047B91</p>
         <a href="mailto:business@altab.productions">business@altab.productions</a>
+        <br>
+        <a href="{base}/privacy-policy">Privacy policy</a>
     </section>
     <section class="company-details">
         <p>Westerstraat 10, UNIT A4832</p>
