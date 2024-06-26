@@ -4,7 +4,7 @@
 </p>
 <h2>How it works</h2>
 <p>
-    The core of our strategy is a schedule of frequent and small meals, which are tuned to make you, and your body, feel full. Without feeling at danger of malnourishment, the body stops accumulating energy, allowing existing reserves to shrink. This makes this approach more healthy and sustainable, and therefore less prone to relapse.
+    The core of our strategy is a schedule of frequent and small meals, which are tuned to make you, and your body, feel full. Without feeling at danger of malnourishment, the body stops accumulating energy, allowing existing reserves to shrink. This makes this approach more healthy and sustainable, and therefore less prone to relapse. Additionally, if your goal is to gain muscle mass, our nutritional structure provides optimal conditions for maintaining active cell mass in good order.
 </p>
 <h2>Permissive diet</h2> 
 <p>
