@@ -96,27 +96,3 @@
 <p>
     <em>Effective as of June 26, 2024</em>
 </p>
-
-<style>
-    ul {
-        list-style-type: disc;
-        padding-left: 50px;
-        margin-bottom: 1em;
-        max-width: 800px;
-        margin-left: auto;
-        margin-right: auto;
-        
-        color: #666;
-    }
-
-    li {
-        font-size: 1rem;
-        margin-bottom: 0.5em;
-        line-height: 1.6;
-        max-width: 800px;
-        margin-left: auto;
-        margin-right: auto;
-
-        color: #666;
-    }
-</style>
