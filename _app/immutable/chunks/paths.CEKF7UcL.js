@@ -1,1 +1,0 @@
-var s;const a=((s=globalThis.__sveltekit_1k17do1)==null?void 0:s.base)??"/altab-productions.github.io";var t;const o=((t=globalThis.__sveltekit_1k17do1)==null?void 0:t.assets)??a;export{o as a,a as b};
