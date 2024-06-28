@@ -10,6 +10,7 @@
         <a href="mailto:business@altab.productions">business@altab.productions</a>
         <br>
         <a href="{base}/privacy-policy">Privacy policy</a>
+        <a href="{base}/terms">Terms of Service</a>
     </section>
     <section class="company-details">
         <p>Westerstraat 10, UNIT A4832</p>
